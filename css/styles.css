@@ -1,5 +1,13 @@
 header.masthead {
-    background: url(../img/banner.png);
+    background: url(../img/banner2.png);
+    position: relative;
+    overflow: hidden;
+    padding-top: calc(7rem + 72px);
+    padding-bottom: 7rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
   }
 
   .btn-primary {
