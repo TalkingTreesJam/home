@@ -52,3 +52,8 @@ header.masthead {
       font-size: 2rem;
       font-family: 'One Two Trees', 'Catamaran', Arial, sans-serif;
   }
+
+h1{
+  font-family: 'Catamaran';
+  font-weight: normal !important;
+}
